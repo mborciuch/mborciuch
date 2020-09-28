@@ -8,6 +8,6 @@ I am a passionate self-taught programmer, focused on Java/Spring.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/michal-borciuch/)
 
 ## My main own Projects
-# JxConverter
+### JxConverter
 Converter, which allows to convert two way convertion of json and xml format.
 This is full-stack project, with [Client](https://github.com/misiek001/JxConverterClient) built with React and [server](https://github.com/misiek001/jxconverter) built with Java/Spring
