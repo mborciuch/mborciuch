@@ -11,3 +11,8 @@ I am a passionate self-taught programmer, focused on Java/Spring.
 ### JxConverter
 Converter, which allows to convert two way convertion of json and xml format.
 This is full-stack project, with [Client](https://github.com/misiek001/JxConverterClient) built with React and [server](https://github.com/misiek001/jxconverter) built with Java/Spring
+
+### Project Portfolio Management 
+Backend RESTful Application, built with Java and Spring Framework. [Link](https://github.com/misiek001/project-portfolio-management)
+
+
