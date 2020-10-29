@@ -1,4 +1,5 @@
 ### Hello there 👋
+Thank you for visiting my Github!
 ## About me
 I am a passionate self-taught programmer, focused on Java/Spring.
 
@@ -14,5 +15,8 @@ This is full-stack project, with [Client](https://github.com/misiek001/JxConvert
 
 ### Project Portfolio Management 
 Backend RESTful Application, built with Java and Spring Framework. [Link](https://github.com/misiek001/project-portfolio-management)
+
+## Angular Learning Project
+[SportStore](https://github.com/misiek001/SportsStore) Application developed on the base of Angular9Pro
 
 
